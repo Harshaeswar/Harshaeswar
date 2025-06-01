@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java, Data Structures, and Web Development**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/abbireddiharsha)
 - 💬 Ask me about **Java, Python, OOPs, DSA, HTML, SQL**
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[abbireddyharsha18@gmail.com]**
 - 📄 Know more about me in my [Resume](https://link-to-your-resume.com)
 
 ---
