@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A Harsha Eswar Krishna</h1>
+<h1 align="center">Hi, I'm A Harsha Eswar Krishna</h1>
 <h3 align="center">A passionate Computer Science Engineering student at Mohan Babu University, Tirupati</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Harshaeswar)
 - 💬 Ask me about **Java, Python, OOPs, DSA, HTML, SQL**
 - 📫 How to reach me: **[abbireddyharsha18@gmail.com]**
-- 📄 Know more about me in my [LinkedIn](www.linkedin.com/in/abbireddi-harsha-153503260)
+- 📄 Know more about me in my [LinkedIn](https://www.linkedin.com/in/abbireddi-harsha-eswar-krishna-3b1a57318/)
 
 ---
 
@@ -36,18 +36,18 @@
 ---
 
 ### 🏆 Certifications:
-- Java (by [Platform Name])
-- Python (by [Platform Name])
-- Data Structures (by [Platform Name])
+- Java (HackerRank)
+- Python (Cisco)
+- Data Structures (Talentio)
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://www.linkedin.com/in/abbireddi-harsha-eswar-krishna-3b1a57318/" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:your-abbireddyharsha18@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
