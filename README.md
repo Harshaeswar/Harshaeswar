@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **Java, Data Structures, and Web Development**
-- 👨‍💻 All of my projects are available at [GitHub](www.linkedin.com/in/abbireddi-harsha-153503260)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Harshaeswar)
 - 💬 Ask me about **Java, Python, OOPs, DSA, HTML, SQL**
 - 📫 How to reach me: **[abbireddyharsha18@gmail.com]**
 - 📄 Know more about me in my [LinkedIn](www.linkedin.com/in/abbireddi-harsha-153503260)
